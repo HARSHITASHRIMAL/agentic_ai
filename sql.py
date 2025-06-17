@@ -1,3 +1,5 @@
+#to create a database and import an SQL file into it
+# This script creates a SQLite database and imports an SQL file into it.
 import sqlite3
 
 def import_sql_file(db_path, sql_file_path):

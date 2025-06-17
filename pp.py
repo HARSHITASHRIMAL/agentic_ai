@@ -1,3 +1,5 @@
+#this is a  file to know about the tables in the database
+# This script lists all tables in the northwind.db SQLite database 
 import sqlite3
 
 conn = sqlite3.connect("northwind.db")
